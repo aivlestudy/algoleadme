@@ -8,6 +8,13 @@
 | [1eodran](https://github.com/1eodran) | [RublerubitZ](https://github.com/RublerubitZ) | [Ryugeonwoo](https://github.com/Ryugeonwoo) | [seongwoo0424](https://github.com/seongwoo0424) | [ssoyeonn](https://github.com/ssoyeonn) | [underHero98](https://github.com/underHero98) |
 | [풀이 기록](./1eodran) | [풀이 기록](./RublerubitZ) | [풀이 기록](./Ryugeonwoo) | [풀이 기록](./seongwoo0424) | [풀이 기록](./ssoyeonn) | [풀이 기록](./underHero98) |
 
+## 주차별 문제
+
+| 주차 | 문제 | 난이도 |
+| :---: | :---: | :---: |
+| 1주차 | [로그인 성공?](https://school.programmers.co.kr/learn/courses/30/lessons/120883) | Lv. 0 |
+| 1주차 | [구슬을 나누는 경우의 수](https://school.programmers.co.kr/learn/courses/30/lessons/120840) | Lv. 0 |
+
 ## 스터디 규칙
 
 1. 풀이는 `본인 아이디/문제 유형/` 폴더 안에 올립니다. (예: `RublerubitZ/BFS/숨바꼭질.py`)
