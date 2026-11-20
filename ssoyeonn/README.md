@@ -1,4 +1,4 @@
-# ssoyeonn의 코테 공부 기록 ~.~
+# ssoyeonn의 코테 공부 기록 (\~˘▾˘)\~
 
 ![img_1.png](img_1.png)
 
