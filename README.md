@@ -3,10 +3,10 @@
 
 ## 멤버
 
-| <a href="https://github.com/1eodran"><img src="https://github.com/1eodran.png" width="100"></a> | <a href="https://github.com/RublerubitZ"><img src="https://github.com/RublerubitZ.png" width="100"></a> | <a href="https://github.com/Ryugeonwoo"><img src="https://github.com/Ryugeonwoo.png" width="100"></a> | <a href="https://github.com/seongwoo0424"><img src="https://github.com/seongwoo0424.png" width="100"></a> | <a href="https://github.com/ssoyeonn"><img src="https://github.com/ssoyeonn.png" width="100"></a> | <a href="https://github.com/underHero98"><img src="https://github.com/underHero98.png" width="100"></a> |
+| <a href="https://github.com/1eodran"><img src="https://github.com/1eodran.png" width="100"></a> | <a href="https://github.com/RublerubitZ"><img src="https://github.com/RublerubitZ.png" width="100"></a> | <a href="https://github.com/Ryugeonwoo"><img src="https://github.com/Ryugeonwoo.png" width="100"></a> | <a href="https://github.com/seongwoo0424"><img src="https://github.com/itstjddn.png" width="100"></a> | <a href="https://github.com/ssoyeonn"><img src="https://github.com/ssoyeonn.png" width="100"></a> | <a href="https://github.com/underHero98"><img src="https://github.com/underHero98.png" width="100"></a> |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| [1eodran](https://github.com/1eodran) | [RublerubitZ](https://github.com/RublerubitZ) | [Ryugeonwoo](https://github.com/Ryugeonwoo) | [seongwoo0424](https://github.com/seongwoo0424) | [ssoyeonn](https://github.com/ssoyeonn) | [underHero98](https://github.com/underHero98) |
-| [풀이 기록](./1eodran) | [풀이 기록](./RublerubitZ) | [풀이 기록](./Ryugeonwoo) | [풀이 기록](./seongwoo0424) | [풀이 기록](./ssoyeonn) | [풀이 기록](./underHero98) |
+| [1eodran](https://github.com/1eodran) | [RublerubitZ](https://github.com/RublerubitZ) | [Ryugeonwoo](https://github.com/Ryugeonwoo) | [seongwoo0424](https://github.com/itstjddn) | [ssoyeonn](https://github.com/ssoyeonn) | [underHero98](https://github.com/underHero98) |
+| [풀이 기록](./1eodran) | [풀이 기록](./RublerubitZ) | [풀이 기록](./Ryugeonwoo) | [풀이 기록](./itstjddn) | [풀이 기록](./ssoyeonn) | [풀이 기록](./underHero98) |
 
 ## 주차별 문제
 
