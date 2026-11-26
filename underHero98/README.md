@@ -4,3 +4,4 @@
 | :---: | :---: | :---: | :---: |
 | 1차시 | 2026.11.19 | [로그인 성공?](https://school.programmers.co.kr/learn/courses/30/lessons/120883) | [#1](https://github.com/aivlestudy/algoleadme/pull/1) |
 | 2차시 | 2026.11.22 | [구슬을 나누는 경우의 수](https://school.programmers.co.kr/learn/courses/30/lessons/120840) | [#5](https://github.com/aivlestudy/algoleadme/pull/5) |
+| 4차시 | 2026.11.26 | [공원](https://school.programmers.co.kr/learn/courses/30/lessons/340198) | [#17](https://github.com/aivlestudy/algoleadme/pull/17) |
