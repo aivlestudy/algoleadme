@@ -3,10 +3,10 @@ class Solution {
         int answer = 0;
         int rows = park.length;
         int cols = park[0].length;
-        int[][] dp = new int[rows][cols];
+        int[][] count = new int[rows][cols];
         int max = 0;
 
-        //park 전체 돌기
+        //DP 동적 계획법 (모서리에 가장 큰 수 저장)
         for(int i=0; i<rows; i++){
             for(int j=0; j<cols; j++){
                 //park에 -1이 아닌값은 dp에 0으로 주고 continue
